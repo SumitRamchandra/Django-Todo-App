@@ -38,13 +38,14 @@ Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 #
 
 # CICD Deployment 
+Refer [Hashnode](https://hashnode.com/post/clgrp5mbu000109mw6ztjb0jd)
 
-- Fork this repository
+- Fork this [repository](https://github.com/SumitRamchandra/Django-Todo-App.git)
 - Integrate your Jenkins and GitHub using Personal Access Token. Select Secret Text as credentials in jenkins.
 
 # Configuring Jenkins
 
-- Select New Item
+- Select New Item.
 
 - Add name of the item and select Freestyle project In the Configure page, add github url.
 
